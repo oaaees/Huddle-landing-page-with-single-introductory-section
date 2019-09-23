@@ -69,6 +69,10 @@ main .text div {
 align-self:center;
 }
 
+main .text div p {
+margin-bottom: 5vh;
+}
+
 .text a.button {
 background:#FFF;
 border:none;
@@ -176,7 +180,7 @@ font-size:1vw;
     .text a.button {
     align-self:center;
     color:hsl(257,40%,49%);
-    margin:20px 0;
+    margin:0;
     padding:10px 10vw;
     text-decoration:none;
     }
